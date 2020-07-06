@@ -1,4 +1,4 @@
-# House-Price-prediction 
+# House Price prediction 
 In this project, we solve this regression model using Keras and Tensorflow. We will be using neural network to solve this problem. 
 
 TensorFlow is the premier open-source deep learning framework developed and maintained by Google. Although using TensorFlow directly can be challenging, the modern tf.keras API beings the simplicity and ease of use of Keras to the TensorFlow project.
