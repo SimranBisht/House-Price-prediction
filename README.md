@@ -15,3 +15,5 @@ During training, we use a 'EarlyStopping' callback.
 The number of epochs is a hyperparameter that defines the number times that the learning algorithm will work through the entire training dataset.
 One epoch means that each sample in the training dataset has had an opportunity to update the internal model parameters. 
 Too many epochs can lead to overfitting of the training dataset, whereas too few may result in an underfit model. Early stopping is a method that allows you to specify an arbitrary large number of training epochs and stop training once the model performance stops improving on a hold out validation dataset.
+
+In this project, we've created,trained and evaluated a neural network model that after training will be able to accurately predict price of a house if provided with some information like the age of the house, location and so on.
